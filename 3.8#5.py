@@ -1,4 +1,3 @@
-
 fruits = ['tomato', 'strawberry', 'mango', 'kiwi', 'guava', 'banana']
 vegetables = ['eggplant', 'broccoli', 'carrot', 'cauliflower', 'zucchini']
 
@@ -14,6 +13,7 @@ def combine_and_sort_two_lists(list1, list2):
         
         return sorted(newList)
     else:
+        print("Error in combine_and_sort_two_lists: one argument is not a list")
         return "None"
 
 print(combine_and_sort_two_lists(fruits, vegetables))
@@ -22,3 +22,4 @@ print(vegetables)
 print(combine_and_sort_two_lists([1, 2, -5], [0, 8, 12, -100]))
 print(combine_and_sort_two_lists("I'm not a list", vegetables))
 print(combine_and_sort_two_lists(fruits, 42))
+
