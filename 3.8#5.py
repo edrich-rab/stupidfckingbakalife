@@ -19,7 +19,7 @@ def combine_and_sort_two_lists(list1, list2):
         return sorted(newList) # sorts out the combined list
     else:
         print("Error in combine_and_sort_two_lists: one argument is not a list") # error msg if an argument is not a list
-        return "None"
+        return None
 
 # print tests to ensure code runs correctly
 print(combine_and_sort_two_lists(fruits, vegetables))
