@@ -1,6 +1,4 @@
 # stupidfckingbakalife
-In a Python file, write a method called combine_and_sort_two_lists that will take 2 lists as arguments and return a new single list that holds all elements alphabetically ordered.
+for all my stupid fucking assignments i dont even know what im doing why did i choose this major im on the verge of suicide and i hate everyone 
 
-If either argument passed to the method is not a list, print an error message and return NoneLinks to an external site. object.
-
-Do not modify the original arguments.
+i shouldve done a BA degree and accepted that im stupid
